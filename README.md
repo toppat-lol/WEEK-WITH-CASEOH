@@ -7,7 +7,11 @@ THIS TOOK REALLY LONG TO MAKE AND CODE
 
 
 Director: Toppat inc
+
 Programer:
+
 Artist:
+
 Voice actor: AI
+
 //we used unity also
