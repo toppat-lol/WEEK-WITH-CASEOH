@@ -8,9 +8,9 @@ THIS TOOK REALLY LONG TO MAKE AND CODE
 
 Director: Toppat inc
 
-Programer:
+Programer: SekukTheDragon
 
-Artist:
+Artist: Samuel Artist
 
 Voice actor: AI
 
